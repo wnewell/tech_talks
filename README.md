@@ -1,2 +1,5 @@
-# tech_talks
-Calendar and repository for Open Target Tech Talks
+# tech talks
+Calendar and repository for the Open Target Tech Talks
+
+The calendar is available here:
+Please contribute any supporting material in this repo
