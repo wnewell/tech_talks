@@ -1,6 +1,6 @@
 | Date     | Type      | Speaker   | Title                                                         | Links                               |
 |----------|-----------|-----------|---------------------------------------------------------------|-------------------------------------|
-| 20/01/17 | SCHEDULED | Gautier ||
+| 20/01/17 | SCHEDULED | Gautier | Phenotype semantic similarity with HPO terms using Resnik measure |
 | 27/01/17 | OPTIONAL  |||
 | 03/02/17 | SCHEDULED | Navin ||
 | 10/02/17 | OPTIONAL  |||
