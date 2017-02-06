@@ -4,7 +4,7 @@
 | 27/01/17 | OPTIONAL  |||
 | 03/02/17 | SCHEDULED | Navin ||
 | 10/02/17 | OPTIONAL  |||
-| 17/02/17 | SCHEDULED | Priyanka | when Priyanka will visit hinxton|
+| 17/02/17 | SCHEDULED | Miguel | create your plugin for the webapp (D3?) |
 | 24/02/17 | OPTIONAL  |||
 | 03/03/17 | SCHEDULED | William ||
 | 10/03/17 | OPTIONAL  |||
