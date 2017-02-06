@@ -2,7 +2,7 @@
 |----------|-----------|-----------|---------------------------------------------------------------|-------------------------------------|
 | 20/01/17 | SCHEDULED | Gautier | Phenotype semantic similarity with HPO terms using Resnik measure |
 | 27/01/17 | OPTIONAL  |||
-| 03/02/17 | SCHEDULED | Navin ||
+| 03/02/17 | SCHEDULED | Navin || Genomics England Pipeline Code Review |
 | 10/02/17 | OPTIONAL  |||
 | 17/02/17 | SCHEDULED | Miguel | create your plugin for the webapp (D3?) |
 | 24/02/17 | OPTIONAL  |||
